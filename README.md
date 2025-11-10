@@ -83,7 +83,7 @@ ADDCOLUMNS (
 AverageProductRating :=
 AverageProductRating = AVERAGE(Products[Rating])
 
-
+```
 ---
 
 ### 📈 Key Insights  
