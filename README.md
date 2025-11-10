@@ -98,7 +98,7 @@ AverageProductRating = AVERAGE(Products[Rating])
 
 ### 🗺 Dashboard Preview  
 
-![Customer Sales Insights Dashboard](./assets/customer-sales-insights.png)
+<img width="769" height="397" alt="dashboard 2" src="https://github.com/user-attachments/assets/b8cf1b3a-85d3-4b97-9ddf-fa142ee5d9fc" />
 
 ---
 
