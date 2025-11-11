@@ -1,4 +1,4 @@
-# customer-sales-insights-dashboard
+# Customer-sales-insights-dashboard
 Power BI dashboard for customer sales &amp; insights
 ### 📊 Overview  
 An interactive **Power BI dashboard** that analyzes **customer sales, regional performance, and product categories** to uncover actionable business insights.  
